@@ -4,7 +4,7 @@ A comprehensive Bash script to analyze and report basic server performance stati
 
 ## Project URL
 
-[https://github.com/back2bram/server-stats](https://github.com/back2bram/server-stats)
+https://github.com/back2bram/server-stats
 
 ## Features
 
